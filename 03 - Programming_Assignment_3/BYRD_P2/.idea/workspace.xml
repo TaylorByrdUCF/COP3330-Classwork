@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1SLnyc3sLHgihYvG2IPzCLHFnY0" />
+  <component name="RunManager">
+    <configuration name="Problem_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Problem_2" />
+      <module name="BYRD_PA3_P2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problem_2" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
