@@ -44,9 +44,9 @@ public class DuplicateRemover {
     }
 
 
-    public void write(String dataFile) throws FileNotFoundException{
+    public void write(String outputFile) throws FileNotFoundException{
 
-        PrintWriter pw = new PrintWriter(dataFile);
+        PrintWriter pw = new PrintWriter(outputFile);
 
         //Nothing crazy going on here, just a for loop that loops through the ArrayList unique words and writes them to the file "DataFile".
         for(String i:uniqueWords)
