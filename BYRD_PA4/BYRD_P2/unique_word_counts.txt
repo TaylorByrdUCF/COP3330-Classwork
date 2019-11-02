@@ -1,0 +1,11 @@
+never : 3
+give : 1
+gonna : 3
+and : 1
+let : 1
+up : 1
+turn : 1
+down : 1
+around : 1
+you : 3
+hurt : 1
